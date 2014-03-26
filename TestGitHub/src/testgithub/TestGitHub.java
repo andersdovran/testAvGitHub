@@ -17,6 +17,7 @@ public class TestGitHub
     public static void main(String[] args) 
     {
         JOptionPane.showMessageDialog(null,"Yo" );
+        JOptionPane.showMessageDialog(null,"Yo" );
     }
     
 }
