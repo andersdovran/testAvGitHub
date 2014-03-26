@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package test;
+package testgithub;
 
 import javax.swing.JOptionPane;
 
@@ -16,7 +16,7 @@ public class TestGitHub
 {
     public static void main(String[] args) 
     {
-        JOptionPane.showMessageDialog(null,"Hei hei hei" );
+        JOptionPane.showMessageDialog(null,"Yo" );
     }
     
 }
